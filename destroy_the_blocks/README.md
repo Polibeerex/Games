@@ -1,4 +1,4 @@
-#Destroy The Blocks
+# Destroy The Blocks
 
 Purpose of the game: controlling the platform, make the ball destroy all the blocks
 
