@@ -1,5 +1,3 @@
-import random
-
 import pygame
 
 # initializing "PyGame" library
